@@ -4,7 +4,7 @@ Generating Categories for Sets of Entities
 
 This repository contains resources developed within the following paper:
 
-> S. Zhang, K. Balog and J. Callan. Generating Categories for Sets of Entities. In: *Proceedings of the 29th Conference on Information and Knowledge Management*, Oct 2020. 
+> S. Zhang, K. Balog and J. Callan. Generating Categories for Sets of Entities. In: *Proceedings of the 29th ACM International Conference on Information and Knowledge Management*, Oct 2020. 
 
 ## Benchmark
 
