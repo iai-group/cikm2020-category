@@ -29,9 +29,16 @@ This repository contains resources developed within the following paper:
 
 * `training_new.csv`: training categories for final ranking, which consists of 5K positive cases (exists in 2012, 2016, and 2019) and 5K negative cases (existed in 2012, then deleted or replaced)
 
-* `final_ranking/c_imp.json`: importance features for both training (`training_new.csv`) and test data ()
+* `final_ranking/c_imp.json`: importance features for both training (`training_new.csv`)
 
-* `final_ranking/yiwan.json`: structure and content features for both training (`training_new.csv`) and test data ()
+* `final_ranking/yiwan.json`: structure and content features for both training (`training_new.csv`)
+
+Training & Validation data and features:
+<training_new.csv, yiwan.json, c_imp.json>
+
+Test data and features:
+<sqs_all.csv, sqs_feat_all.json, c_imp_sqs.json>
+
   
 ## Citation
 ```
