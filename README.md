@@ -1,5 +1,4 @@
-# 
-Generating Categories for Sets of Entities
+# Generating Categories for Sets of Entities
 
 
 This repository contains resources developed within the following paper:
