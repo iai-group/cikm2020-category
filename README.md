@@ -47,7 +47,8 @@ Test data and features:
 	title = {Generating Categories for Sets of Entities},
 	year = {2020},
 	booktitle = {Proceedings of the 29th ACM International Conference on Information and Knowledge Management},
-	series = {CIKM '20}
+	series = {CIKM '20},
+	pages = {1833–1842}
 }
 ```
 
