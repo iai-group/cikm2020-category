@@ -43,12 +43,18 @@ Test data and features:
 ## Citation
 ```
 @inproceedings{Zhang:2020:GCS,
-	author = {Zhang, Shuo and Balog, Krisztian and Callan, Jamie},
-	title = {Generating Categories for Sets of Entities},
-	year = {2020},
-	booktitle = {Proceedings of the 29th ACM International Conference on Information and Knowledge Management},
-	series = {CIKM '20},
-	pages = {1833–1842}
+  author = {Zhang, Shuo and Balog, Krisztian and Callan, Jamie},
+  title = {Generating Categories for Sets of Entities},
+  year = {2020},
+  isbn = {9781450368599},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3340531.3412019},
+  doi = {10.1145/3340531.3412019},
+  booktitle = {Proceedings of the 29th ACM International Conference on Information & Knowledge Management},
+  pages = {1833--1842},
+  location = {Virtual Event, Ireland},
+  series = {CIKM '20}
 }
 ```
 
