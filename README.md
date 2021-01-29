@@ -7,6 +7,8 @@ This repository contains resources developed within the following paper:
 
 ## Benchmark
 
+* Download the Wikipedia table corpus: https://gustav1.ux.uis.no/downloads/smart_table/tables_2017.zip
+
 ### Candidate Generation
 
 * `category_generation/training_data_for_candidate_generation` stores the training, validation, and test data for candidate generation in JSON format. The number of training, validation, and test data is 8432, 1055, and 1055 respectively. Any instance with id ``table-xxxx-xxxx`` corresponds to a Wikipedia table or list, where an entity set is embedded. We take these entities' categories, which having over half of the entities in the set as members, as ground truth categories. These categories are futher parsed, see `category_generation/candidate_categories/sqs_all.*`
